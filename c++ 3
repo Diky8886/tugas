@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a,b, total;
+    cout<<"masukkan jumlah barang pertama ";
+    cin>>a;
+    cout<<"masukkan jumlah barang kedua ";
+    cin>>b;
+    total=a+b;
+    cout<<total;
+
+    return 0;
+}
